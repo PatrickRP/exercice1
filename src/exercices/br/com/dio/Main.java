@@ -15,5 +15,9 @@ public class Main {
         double divisao = Calculate.division(2,5);
         System.out.println(divisao);
 
+        Message.getMessage(1);
+        Message.getMessage(14);
+        Message.getMessage(6);
+        Message.getMessage(0);
     }
 }
