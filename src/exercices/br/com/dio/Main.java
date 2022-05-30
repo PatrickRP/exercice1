@@ -19,5 +19,8 @@ public class Main {
         Message.getMessage(14);
         Message.getMessage(6);
         Message.getMessage(0);
+
+        Loan.calculate(100,2);
+        Loan.calculate(100,4);
     }
 }
